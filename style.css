@@ -1,0 +1,127 @@
+body {
+    background-color: rgb(46, 46, 90);
+    color: black;
+}
+
+ div {
+    background-color: aliceblue;
+    margin: auto;
+    max-width: 900px;
+    max-height: 700px;
+    border-radius: 40px;
+    padding: 10px 0px 20px 100px;
+} 
+ .img {
+    max-width: 100px;
+    max-height: 250px;
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.content_field input {
+    border-radius: 10px;
+    height: 50px;
+    width: 350px;
+    border-color: black;
+    border-style: hidden;
+    font-size: 20px;
+    background-color: beige;
+}
+.content_field button {
+    background-color: rgb(46, 46, 90);
+    color: white;
+    text-decoration: none;
+    border-style: dotted;
+    border-radius: 10px;
+    width: 350px;
+    height: 50px;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.content_field button:hover {
+    color: white;
+    background-color: #f1763d ;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution 
+{ 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
