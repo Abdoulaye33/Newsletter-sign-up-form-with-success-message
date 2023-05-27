@@ -49,8 +49,10 @@ body {
     cursor: pointer;
 }
 
-
-
+.content_field p {
+    margin-left: 210px;
+    
+}
 
 
 
