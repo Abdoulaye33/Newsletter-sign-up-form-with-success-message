@@ -21,6 +21,12 @@ body {
 
 }
 
+.information {
+    font-size: 1.1em;
+}
+.information h1 {
+    font-size: 1.5em;
+}
 
 .content_field input {
     border-radius: 10px;
@@ -176,7 +182,10 @@ body {
 { 
     font-size: 11px; 
     text-align: center; 
+    color: white;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+    color: wheat;
 }
